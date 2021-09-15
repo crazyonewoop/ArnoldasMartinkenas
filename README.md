@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT:)
 - 🌱 I’m currently learning QA software tester..
 - 💞️ I’m looking to collaborate on Python!
-- 📫 a.maertinkenas.88@gmail.com
+- 📫 a.martinkenas.88@gmail.com
 
 <!---
 ArnoldasMartinkenas/ArnoldasMartinkenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

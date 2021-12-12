@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ArnoldasMartinkenas
-- 👀 I’m interested in IT:)
-- 🌱 I’m currently learning QA software tester..
-- 💞️ I’m looking to collaborate on Python!
+- 👋 Hi, I’m @Arnoldas Martinkenas
+- 👀 I’m interested in web
+- 🌱 I’m currently learning HTML CSS
+- 💞️JAVASCRIP
 - 📫 a.martinkenas.88@gmail.com
 
 <!---

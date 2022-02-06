@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Arnoldas Martinkenas
-- 👀 I’m interested in web
-- 🌱 I’m currently learning HTML CSS
-- 💞️JAVASCRIP
+- 👀 I’m interested in REACT
 - 📫 a.martinkenas.88@gmail.com
 
 <!---
